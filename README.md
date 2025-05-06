@@ -24,7 +24,7 @@ Cadenza is a real-time music collaboration platform that combines the power of A
 
 ### 2. Explore 
 
-<img width="309" alt="Screenshot 2025-05-06 at 1 29 30 AM" src="https://github.com/user-attachments/assets/cb41e247-7508-4451-8bc2-5e2be7688df6" />
+<img width="768" alt="Screenshot 2025-05-06 at 1 46 25 AM" src="https://github.com/user-attachments/assets/e5491456-e5f9-4fbe-932e-5cc84978364b" />
 
 - **Browse Compositions**: View compositions from other users
 - **Like System**: Like and save your favorite compositions
