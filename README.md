@@ -4,7 +4,7 @@ Cadenza is a real-time music collaboration platform that combines the power of A
 
 ## Core Features
 
-### Compose 🎼
+### Compose 
 - **Piano Roll Interface**: Create and edit music using a visual piano roll
 - **Basic Recording**: Record your musical ideas
 - **Playback Controls**: Play, stop, and reset your compositions
@@ -13,12 +13,18 @@ Cadenza is a real-time music collaboration platform that combines the power of A
 - **Tempo Control**: Adjust the speed of your compositions
 - **Volume Control**: Manage the audio output level
 
-### Explore 🎵
+### Explore 
 - **Browse Compositions**: View compositions from other users
 - **Like System**: Like and save your favorite compositions
 - **Comments**: Interact with other users through comments
 - **Share**: Share compositions with others
 - **Visualization**: View composition visualizations
+
+### Collaborate 
+- **Publish**: Share your compositions with the community
+- **Import**: Import compositions from other users
+- **Preview**: Preview compositions before importing
+- **Track Management**: Save and organize your tracks
 
 ## Tech Stack
 
