@@ -20,12 +20,6 @@ Cadenza is a real-time music collaboration platform that combines the power of A
 - **Share**: Share compositions with others
 - **Visualization**: View composition visualizations
 
-### Collaborate 🤝
-- **Publish**: Share your compositions with the community
-- **Import**: Import compositions from other users
-- **Preview**: Preview compositions before importing
-- **Track Management**: Save and organize your tracks
-
 ## Tech Stack
 
 - **Frontend**: 
@@ -68,15 +62,3 @@ Cadenza's AI capabilities are powered by Magenta.js:
 - **Melody Generation**: Create new melodies using MusicRNN
 - **Style-Based Generation**: Generate music in different styles
 - **Mood-Based Variations**: Adjust the emotional tone of generated music
-
-## Contributing
-
-We welcome contributions from developers, musicians, and AI enthusiasts. You can contribute by:
-- Reporting bugs
-- Suggesting new features
-- Submitting pull requests
-- Improving the user interface
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
