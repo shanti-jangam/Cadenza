@@ -9,7 +9,7 @@ Cadenza is a real-time music collaboration platform that combines the power of A
 ## Core Features
 
 
-### Compose 
+### 1. Compose 
 
 <img width="621" alt="Screenshot 2025-05-06 at 1 02 42 AM" src="https://github.com/user-attachments/assets/b429ef57-a544-4715-b86a-0614b4720dad" />
 
@@ -22,7 +22,7 @@ Cadenza is a real-time music collaboration platform that combines the power of A
 - **Volume Control**: Manage the audio output level
 
 
-### Explore 
+### 2. Explore 
 
 <img width="318" alt="Screenshot 2025-05-06 at 1 07 42 AM" src="https://github.com/user-attachments/assets/a43b5bfe-164f-4d71-ac94-5d2f8ab89be3" />
 
@@ -33,7 +33,7 @@ Cadenza is a real-time music collaboration platform that combines the power of A
 - **Visualization**: View composition visualizations
 
 
-### Collaborate 
+### 3. Collaborate 
 
 <img width="593" alt="Screenshot 2025-05-06 at 1 04 33 AM" src="https://github.com/user-attachments/assets/42a572de-3655-4e09-a478-033f1646681a" />
 
@@ -45,8 +45,7 @@ Cadenza is a real-time music collaboration platform that combines the power of A
 
 ## AI Features
 
-<img width="325" alt="Screenshot 2025-05-06 at 1 20 26 AM" src="https://github.com/user-attachments/assets/8aa24c51-f210-4b24-b834-840d8f9eb7c7" />
-
+<img width="324" alt="Screenshot 2025-05-06 at 1 21 51 AM" src="https://github.com/user-attachments/assets/da613cde-1355-4932-9aeb-7eab35bd633e" />
 
 Cadenza's AI capabilities are powered by Magenta.js:
 - **Melody Generation**: Create new melodies using MusicRNN
