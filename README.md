@@ -21,7 +21,6 @@ Cadenza is a real-time music collaboration platform that combines the power of A
 - **Tempo Control**: Adjust the speed of your compositions
 - **Volume Control**: Manage the audio output level
 
----
 
 ### Explore 
 
@@ -33,7 +32,6 @@ Cadenza is a real-time music collaboration platform that combines the power of A
 - **Share**: Share compositions with others
 - **Visualization**: View composition visualizations
 
----
 
 ### Collaborate 
 
@@ -44,11 +42,11 @@ Cadenza is a real-time music collaboration platform that combines the power of A
 - **Preview**: Preview compositions before importing
 - **Track Management**: Save and organize your tracks
 
----
 
 ## AI Features
 
-<img width="1421" alt="Screenshot 2025-05-06 at 12 22 56 AM" src="https://github.com/user-attachments/assets/faa32e2a-4566-4bdd-9760-f2e2036095a7" />
+<img width="325" alt="Screenshot 2025-05-06 at 1 20 26 AM" src="https://github.com/user-attachments/assets/8aa24c51-f210-4b24-b834-840d8f9eb7c7" />
+
 
 Cadenza's AI capabilities are powered by Magenta.js:
 - **Melody Generation**: Create new melodies using MusicRNN
